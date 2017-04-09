@@ -1,0 +1,29 @@
+{
+  "name": "ts-library",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Jessie S. Labadan"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "demo",
+    "example"
+  ],
+  "homepage": "https://github.com/jessielabadan07/ts-library",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.5.2"
+  }
+}

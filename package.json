@@ -1,0 +1,30 @@
+{
+  "name": "ts-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessielabadan07/ts-library.git"
+  },
+  "keywords": [
+   "typescript",
+   "demo",
+   "example"
+   ],
+  "author": "Jessie S. Labadan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessielabadan07/ts-library/issues"
+  },
+  "homepage": "https://github.com/jessielabadan07/ts-library#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
